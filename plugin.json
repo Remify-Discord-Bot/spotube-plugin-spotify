@@ -1,11 +1,11 @@
 {
   "version": "0.2.0",
   "name": "Spotify",
-  "author": "Sonic Liberation",
+  "author": "Remify",
   "description": "Spotube plugin for Spotify metadata",
   "entryPoint": "SpotifyMetadataProviderPlugin",
   "apis": ["webview", "localstorage", "timezone"],
   "abilities": ["authentication", "metadata"],
-  "repository": "https://github.com/sonic-liberation/spotube-plugin-spotify",
+  "repository": "https://github.com/Remify-Discord-Bot/spotube-plugin-spotify",
   "pluginApiVersion": "2.0.0"
 }
